@@ -1,0 +1,1 @@
+print('Albert Einstein pernah berkata, "Belajar dari kemarin, hidup untuk hari ini, berharap untuk hari esok."')
